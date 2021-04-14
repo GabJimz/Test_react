@@ -10,5 +10,5 @@
 }
 
 .hallOfFame tr:nth-child(even) {
-  background: #eee;
+  background: rgb(0, 0, 0);
 }
